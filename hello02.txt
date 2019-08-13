@@ -1,0 +1,12 @@
+
+zww@DESKTOP-75SGT1A MINGW64 /f/asdf/git/repository/repo1
+$ git init
+Initialized empty Git repository in F:/asdf/git/repository/repo1/.git/
+
+zww@aaaaaaaaaaaaaaaaaaaa
+
+bbbbbbbbbbbbbbbbbbbb
+
+dddddddddddddddddddd
+eeeeeeeeeeeeeeeeeee
+
